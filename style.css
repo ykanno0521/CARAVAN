@@ -71,6 +71,23 @@ main {
 .blog-box {
   padding-top: 50px;
 }
+
+.pagination{
+  text-align: center;
+  padding-top: 50px;
+}
+
+.pagination .p {
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  color:  white;
+  background-color: #acabab;
+  border-radius: 3px;
+  margin: 0 5px;
+  line-height: 30px;
+}
+
 .blog-item {
   padding-bottom: 20px;
   margin-bottom: 20px;
